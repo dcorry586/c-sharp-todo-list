@@ -1,0 +1,14 @@
+/Users/dylan/csharp-todo-list/App/bin/Debug/net8.0/App
+/Users/dylan/csharp-todo-list/App/bin/Debug/net8.0/App.deps.json
+/Users/dylan/csharp-todo-list/App/bin/Debug/net8.0/App.runtimeconfig.json
+/Users/dylan/csharp-todo-list/App/bin/Debug/net8.0/App.dll
+/Users/dylan/csharp-todo-list/App/bin/Debug/net8.0/App.pdb
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.AssemblyInfoInputs.cache
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.AssemblyInfo.cs
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.csproj.CoreCompileInputs.cache
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.dll
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/refint/App.dll
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.pdb
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/App.genruntimeconfig.cache
+/Users/dylan/csharp-todo-list/App/obj/Debug/net8.0/ref/App.dll
